@@ -6,7 +6,7 @@ function botaoConsole() {
 }
 
 function botaoAlerta() {
-    alert('Eu amo JS');
+    alert('Eu estou aprendendo JS');
 }
 
 function botaoPrompt() {

@@ -10,7 +10,7 @@ function botaoAlerta() {
 }
 
 function botaoPrompt() {
-    let cidade = prompt('Digite uma cidade no Brasil:');
+    let cidade = prompt('Digite uma cidade no mundo:');
     alert(`Estivemos em ${cidade} e lembrei de você!`);
 }
 

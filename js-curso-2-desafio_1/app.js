@@ -11,7 +11,7 @@ function botaoAlerta() {
 
 function botaoPrompt() {
     let cidade = prompt('Digite uma cidade no Brasil:');
-    alert(`Estive em ${cidade} e lembrei de você!`);
+    alert(`Estivemos em ${cidade} e lembrei de você!`);
 }
 
 function botaoSoma() {
